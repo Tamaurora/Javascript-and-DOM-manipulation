@@ -1,0 +1,11 @@
+{
+    "name": "hiking-website",
+    "version": "1.0.0",
+    "description": "A website with a table for listing hikes",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"  // If you decide to use a simple Node.js server for development
+    }
+  }
